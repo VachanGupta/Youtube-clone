@@ -35,10 +35,12 @@ nav{
 }
 
 .nav-right .user-icon{
-width: 35px;
-margin-right: 0px;
-border-radius: 50%;
-
+    width: 35px;
+    margin-right: 0px;
+    object-fit: cover;
+    object-position: top;
+    height: 33px;
+    border-radius: 50%;
 }
 
 .nav-left .menu-icon{
